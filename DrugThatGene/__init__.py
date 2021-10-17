@@ -19,7 +19,7 @@ dir_path_ex = os.path.dirname(os.path.realpath(__file__))
 
 N_MAX_GENES=200
 pd.set_option('max_colwidth',2000)
-omim_api_key='jrnmZyB4QS6R5ANxZGswmA'
+omim_api_key='OhMzo0dYQFC63LbY6FSW1A'
 
 _ROOT = os.path.abspath(os.path.dirname(__file__))
 output_folder = os.path.join(_ROOT,'output')
